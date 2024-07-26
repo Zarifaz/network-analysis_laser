@@ -189,6 +189,7 @@ It relies on the use of **mathematical and/or computational models** to succinct
 ---
 class: no-logo
 # Applications of SNA
+#trial edits for github 
 .panelset[
 
 .panel[.panel-name[Overview]
